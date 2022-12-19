@@ -10,3 +10,35 @@
     align-items:flex-end;
     justify-content: space-around;
 }
+.pict1{
+    color: rgb(41, 183, 183);
+}
+.pict2{
+    background-color: aqua;
+}
+.pict3{
+    background-color: aqua;
+}
+.pict4{
+    background-color: aqua;
+}
+.pict5{
+    background-color: aqua;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#about{
+    display: flex;
+    align-items: flex-start;
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float:right;
+    width: 100%;
+    height: 10%;
+    color:blue;
+}
