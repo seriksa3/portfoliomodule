@@ -1,0 +1,12 @@
+.logo-page h1{
+    background-color: aqua;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+.logo-page a{
+    display: flex;
+    float: right ;
+    align-items:flex-end;
+    justify-content: space-around;
+}
