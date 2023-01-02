@@ -7,8 +7,6 @@
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-image:url(/images/img-noise-300x100.png) ;
     width: 300px;
-    
-
 }
 .logo-page a{
     display: flex;
@@ -24,28 +22,22 @@
 .pict1{
     display: grid;
     color: rgb(41, 183, 183);
-    background-image:url(/images/IMG_4180.jpg);
 }
 .pict2{
     display: grid;
     background-color: aqua;
-    background-image: url(/images/IMG_4180.jpg);
 
 }
 .pict3{
     display: grid;
     background-color: aqua;
-    background-image: url(/images/IMG_4180.jpg);
 }
 .pict4{
     display: grid;
     background-color: aqua;
-    background-image: url(/images/IMG_4180.jpg);
 }
 .pict5{
     display: grid;
-    background-color: aqua;
-    background-image: url(/images/IMG_4180.jpg);
 }
 .flex{
     display: flex;
@@ -99,4 +91,9 @@
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-left: -8rem;
 
+}
+.conatcts{
+    background-image: url(/images/img-noise-300x100.png);
+    display: flex;
+    justify-content: space-between;
 }
